@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projectshop/static/css/main.498527f1.css",
+    "main.js": "/projectshop/static/js/main.3617b97a.js",
+    "index.html": "/projectshop/index.html",
+    "main.498527f1.css.map": "/projectshop/static/css/main.498527f1.css.map",
+    "main.3617b97a.js.map": "/projectshop/static/js/main.3617b97a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498527f1.css",
+    "static/js/main.3617b97a.js"
+  ]
+}
