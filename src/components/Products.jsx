@@ -8,7 +8,7 @@ const Products = () => {
             <section class="mb-32 text-gray-800 text-center">
                 <h2 class="text-3xl font-bold mb-12 pb-4 text-center">Projects we are proud of</h2>
                 <div class="grid lg:grid-cols-3 gap-6 xl:gap-x-12">
-                    <div class="mb-6 lg:mb-0">
+                    <div class="mb-6">
                         <div class="relative block  rounded-lg shadow-md bg-white cursor-pointer" onClick={()=>{
                              navigate("/productView")
                         }}>
@@ -27,7 +27,7 @@ const Products = () => {
                             </div>
                         </div>
                     </div>   
-                    <div class="mb-6 lg:mb-0">
+                    <div class="mb-6">
                         <div class="relative block  rounded-lg shadow-md bg-white cursor-pointer" onClick={()=>{
                              navigate("/productView")
                         }}>
@@ -46,7 +46,7 @@ const Products = () => {
                             </div>
                         </div>
                     </div>                    
-                    <div class="mb-6 lg:mb-0">
+                    <div class="mb-6">
                         <div class="relative block  rounded-lg shadow-md bg-white cursor-pointer" onClick={()=>{
                              navigate("/productView")
                         }}>
@@ -65,7 +65,7 @@ const Products = () => {
                             </div>
                         </div>
                     </div>    
-                    <div class="mb-6 lg:mb-0">
+                    <div class="mb-6">
                         <div class="relative block  rounded-lg shadow-md bg-white cursor-pointer" onClick={()=>{
                              navigate("/productView")
                         }}>
@@ -84,7 +84,7 @@ const Products = () => {
                             </div>
                         </div>
                     </div>    
-                    <div class="mb-6 lg:mb-0">
+                    <div class="mb-6">
                         <div class="relative block  rounded-lg shadow-md bg-white cursor-pointer" onClick={()=>{
                              navigate("/productView")
                         }}>
