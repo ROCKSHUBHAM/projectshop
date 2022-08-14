@@ -5,11 +5,11 @@ import Products from './Products'
 const Home = () => {
     return (
         <>
-            <div id="carouselExampleCaptions" class="carousel slide relative pt-16 md:pt-7" data-bs-ride="carousel">
+            <div id="carouselExampleCaptions1" class="carousel slide relative pt-16 md:pt-7" data-bs-ride="carousel">
                 <div class="carousel-indicators absolute top-0 right-0 bottom-0 left-0 flex justify-center">
                     <button
                         type="button"
-                        data-bs-target="#carouselExampleCaptions"
+                        data-bs-target="#carouselExampleCaptions1"
                         data-bs-slide-to="0"
                         class="active"
                         aria-current="true"
@@ -17,13 +17,13 @@ const Home = () => {
                     ></button>
                     <button
                         type="button"
-                        data-bs-target="#carouselExampleCaptions"
+                        data-bs-target="#carouselExampleCaptions1"
                         data-bs-slide-to="1"
                         aria-label="Slide 2"
                     ></button>
                     <button
                         type="button"
-                        data-bs-target="#carouselExampleCaptions"
+                        data-bs-target="#carouselExampleCaptions1"
                         data-bs-slide-to="2"
                         aria-label="Slide 3"
                     ></button>
